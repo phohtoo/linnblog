@@ -7,7 +7,7 @@ blog({
   avatarClass: "full",
   links: [
     { title: "Email", url: "mailto:htain@linnhtoo.com" },
-    { title: "GitHub", url: "https://github.com/phohtoo" },
+    { title: "GitHub", url: "https://github.com/phohtoo/linnblog" },
   ],
   background: "#f9f9f9",
   middlewares: [
